@@ -1,0 +1,97 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+
+
+.category-image{
+   width: 50px; 
+}
+
+.badge-success {
+   background-color: #28a745 !important; /* Ensure correct green color */
+   color: white !important; /* Ensure text color is correct */
+ }
+ 
+ .badge-danger {
+   background-color: #dc3545 !important; /* Correct red color */
+   color: white !important; /* Ensure text color is correct */
+ }
+ .remove-audio {
+   width: 24px;
+   height: 24px;
+   z-index: 100;
+   border-radius: 50%;
+   padding: 0;
+   margin-top: -10px;
+   margin-right: 10px;
+   background-color: #ff4d4d;
+   color: white;
+   border: none;
+   cursor: pointer;
+}
+
+.remove-audio:hover {
+   background-color: #ff1a1a;
+}
+
+
+/* .front-card p {
+   font-size: 11px;
+} */
+.card-image{
+   margin-top: 50px;
+}
+
+.front-heading{
+   margin-left: 74px !important
+}
+
+.front-subheading{
+   font-weight: bold;
+   margin-left: 70px !important;
+}
+
+
+.license-details {
+   text-align: left; /* Align text to the left */
+   margin-top: 10px; /* Space above the details */
+}
+
+.license-details p {
+   display: flex; /* Use flexbox to align items */
+   justify-content: space-between; /* Space between label and value */
+   margin: 5px 0; /* Add some space between paragraphs */
+}
+
+.detail-value {
+   margin-left: 20px; 
+   flex-grow: 1; 
+   text-align: left; 
+}
+
+
+.license-details p {
+   font-size: 12px; 
+   margin: 5px 0; 
+}
+
+.detail-value {
+   margin-left: 10px; 
+}
+
+/* Optional: Style for the strong tag to ensure consistency */
+.license-details strong {
+   font-weight: bold; /* Ensures strong text is bold */
+}
+
+.card-design  .card {
+   width: 4.13in; /* Width */
+   height: 2.39in; /* Height */
+   border: 1px solid #ddd;
+   border-radius: 10px;
+   padding: 10px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
